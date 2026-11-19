@@ -1,4 +1,4 @@
-Python Advanced — Домашние задания 08–18
+Python Advanced — Домашние задания 08–21
 
 Обзор проекта
 
@@ -19,7 +19,10 @@ Python Advanced — Домашние задания 08–18
 - Homework 16
 - Homework 17
 - Homework 18
-
+- Homework 19
+- Homework 20
+- Homework 21
+ 
 Используемые технологии
 
 - Python
@@ -47,4 +50,4 @@ pip install -r requirements.txt
 
 ---
 
-Продвинутый курс Python — домашние задания 08–18.
+Продвинутый курс Python — домашние задания 08–21.
